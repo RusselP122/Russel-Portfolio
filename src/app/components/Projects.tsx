@@ -33,7 +33,7 @@ export function Projects() {
     {
       title: "Philippine Typhoon/Weather",
       description: "Weather information for the Philippines including typhoon forecasting.",
-      image: "/images/PTW.png",
+      image: "images/PTW.png",
       tags: ["React", "JavaScript", "Tailwind", "Python", "YAML"],
       github: "confidential",
       demo: "https://philippine-weather-app.vercel.app/",
@@ -42,7 +42,7 @@ export function Projects() {
     {
       title: "PowerTask VA Academy",
       description: "Virtual assistance learning platform for beginners to advance.",
-      image: "/images/PTVA.png",
+      image: "images/PTVA.png",
       tags: ["React", "TypeScript", "Tailwind CSS", "MongoDB"],
       github: "confidential",
       demo: "https://power-task-va-frontend.vercel.app/",
@@ -54,7 +54,7 @@ export function Projects() {
     {
       title: "NivekPC",
       description: "E-commerce platform for selling PC parts.",
-      image: "/images/nivek.png",
+      image: "images/nivek.png",
       tags: ["PHP", "CSS", "MySQL", "Hostinger"],
       github: "confidential",
       demo: "https://nivekpc.ccs-octa.com/",
@@ -63,7 +63,7 @@ export function Projects() {
     {
       title: "DocuStream",
       description: "A web application for storing and managing digital files securely.",
-      image: "/images/docustream.png",
+      image: "images/docustream.png",
       tags: ["PHP", "Tailwind CSS", "MongoDB"],
       github: "https://github.com/RusselP122/DocuStream",
       demo: "confidential",
@@ -72,7 +72,7 @@ export function Projects() {
     {
       title: "EduRegistrar",
       description: "Smart attendance tracking system designed for schools.",
-      image: "/images/eduregistrar.png",
+      image: "images/eduregistrar.png",
       tags: ["PHP", "Tailwind CSS", "MySQL"],
       github: "https://github.com/RusselP122/EduRegistrar",
       demo: "confidential",
@@ -81,7 +81,7 @@ export function Projects() {
     {
       title: "Real Time Chat",
       description: "Real-time chat application.",
-      image: "/images/real.png",
+      image: "images/real.png",
       tags: ["JSX", "Tailwind CSS", "Vite", "Firebase"],
       github: "https://github.com/RusselP122/Real-Time-Chat-App",
       demo: "confidential",
